@@ -1,0 +1,13 @@
+{
+  "name": "avux",
+  "version": "1.0.6",
+  "description": "A super simple state management library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaycee Ingram",
+  "url": "https://github.com/HippoDippo/avux",
+  "email": "KayceeIngram33@gmail.com"
+  "license": "ISC"
+}

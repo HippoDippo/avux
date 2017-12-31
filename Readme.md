@@ -1,6 +1,6 @@
 # Avux
 -----------------------------------
-Avux is a work in progress. I will let everyone know when it is completed! Apologies to those who have already downloaded it.
+Avux is a work in progress. I will let everyone know when it is completed! Apologies to those who have already downloaded it on npm.
 
 So far Avux allows you to create a store that has 3 methods pre-packaged for manipulating the state. 
 

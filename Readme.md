@@ -14,19 +14,19 @@ So far Avux allows you to create a store that has 3 methods pre-packaged for man
 
 ## Example code:
 ------------------------------------
-const { createStore } = require('avux');
+`const { createStore } = require('avux');`
 
 or
 
-import { createStore } from 'avux';
+`import { createStore } from 'avux';`
 
-const state = {
+`const state = {
   name: 'Kaycee',
   age: 23
-}
+}`
 
-const store = createStore(state);
+`const store = createStore(state);`
 
-store.getState();
-store.updateState({favColor: 'blue'});
-store.selectState(['name', 'age']);
+`store.getState();`<br />
+`store.updateState({favColor: 'blue'});`<br />
+`store.selectState(['name', 'age']);`<br />
